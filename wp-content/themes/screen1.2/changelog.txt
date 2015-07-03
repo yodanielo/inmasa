@@ -1,0 +1,29 @@
+=========
+CHANGELOG
+=========
+
+Version 1.2
+- fixed content shadow bug
+- fixed Opera CAPTCHA position bug
+- fixed long breadcrumb placement
+- fixed custom menu widget height conflict with main menu
+- fixed Cufon/jQuery conflict in Internet Explorer 7 and 8
+- fixed Transparency problem Internet Explorer 7 and 8
+- fixed vertical logo placement issues
+- fixed issue with background images not loading
+- fixed thumbnail issues on certain servers
+- fixed PHP error when running on a local server
+- darkened pull quote images to better contrast with background images
+- added country field to contact form
+- added custom video support (flv, f4v, mp4 and mov)
+- added Gallery/Portfolio
+- added option to insert Dummy content
+
+Version 1.1
+- fixed image text wrap
+- fixed problem with post/page background images being overwritten by home background image
+- fixed empty widget problem
+- fixed problem with cropping transparent images
+- fixed a problem with slashes being added to the home content
+- Cufon can now be disabled
+- added optional CAPTCHA for Contact form
